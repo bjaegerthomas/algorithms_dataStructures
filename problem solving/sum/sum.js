@@ -5,4 +5,8 @@ function sum (a,b) {
         console.log("Please enter valid numbers");
     }
 }
+
+a = input("Enter first number: ");
+b = input("Enter second number: ");
+console.log("The sum is: " + sum(a, b));
     
